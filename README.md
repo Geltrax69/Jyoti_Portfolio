@@ -13,6 +13,15 @@
 ![Vite](https://img.shields.io/badge/Vite-8-purple)
 ![Tailwind](https://img.shields.io/badge/Tailwind-4-38bdf8)
 
+## Screenshots
+
+<p align="center">
+  <img src="./screenshot-ui.png" alt="Jyoti_Portfolio UI" width="100%" />
+  <br />
+  <em>Portfolio site.</em>
+</p>
+
+
 ## What it is
 
 A personal portfolio website with a playful paper-craft visual style — layered SVG illustrations, tilt-on-hover cards, bouncy animated notes, and a light/dark theme toggle. Built with React 19, Tailwind CSS 4, and Bootstrap components, it presents the owner's work across illustrated "pages" with a custom SVG art set.
